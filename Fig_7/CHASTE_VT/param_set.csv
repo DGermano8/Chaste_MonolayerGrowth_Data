@@ -1,0 +1,11 @@
+param, value
+beta_1.1, 0.49920
+beta_2, 0.94337
+beta_5, 0.99999
+beta_10, np.nan
+beta_20, np.nan
+gamma_1.1, np.nan
+gamma_2, np.nan
+gamma_5, 0.33552
+gamma_10, 0.64465
+gamma_20, 0.73000
